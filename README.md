@@ -1,1 +1,1 @@
-Projeto de SASS realizado no curso de SASS na Origamid.
+Projeto de SASS realizado no curso de SASS da Origamid.
